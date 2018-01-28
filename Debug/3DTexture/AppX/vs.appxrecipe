@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-MTF5N4Q</Machine>
+    <WindowsUser>Sungmin Jeon</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>c7c2b461-5bb9-48b1-b0db-1bc1da6eeb63</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Sungmin Jeon</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Sungmin Jeon\source\repos\3DTexture\3DTexture\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Sungmin Jeon\source\repos\3DTexture\Debug\3DTexture\AppX</LayoutDir>
+    <RegisteredManifestChecksum>42E93FE562E32C463A2E6F82D489263075082745532AC74C12BB98E7A482CCD2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c7c2b461-5bb9-48b1-b0db-1bc1da6eeb63_1.0.0.0_x86__2vf4vk1rjzczt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c7c2b461-5bb9-48b1-b0db-1bc1da6eeb63_2vf4vk1rjzczt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c7c2b461-5bb9-48b1-b0db-1bc1da6eeb63</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sungmin Jeon</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\Debug\3DTexture\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-27T15:42:12.731</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\Debug\3DTexture\3DTexture.exe">
+      <PackagePath>3DTexture.exe</PackagePath>
+      <Modified>2018-01-27T15:42:12.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\Debug\3DTexture\_3DTexture.winmd">
+      <PackagePath>_3DTexture.winmd</PackagePath>
+      <Modified>2018-01-27T14:39:05.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\3DTexture\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-09-17T18:08:18.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\3DTexture\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-17T18:08:18.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\3DTexture\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-17T18:08:18.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\3DTexture\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-17T18:08:18.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\3DTexture\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-17T18:08:18.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\3DTexture\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-17T18:08:18.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\3DTexture\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-17T18:08:18.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\Debug\3DTexture\SamplePixelShader.cso">
+      <PackagePath>SamplePixelShader.cso</PackagePath>
+      <Modified>2018-01-27T14:38:51.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\Debug\3DTexture\SampleVertexShader.cso">
+      <PackagePath>SampleVertexShader.cso</PackagePath>
+      <Modified>2018-01-27T14:38:52.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.15063.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2017-06-12T15:24:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sungmin Jeon\source\repos\3DTexture\Debug\3DTexture\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-27T15:42:12.557</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.25507.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25507.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.25507.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25507.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.25507.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25507.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

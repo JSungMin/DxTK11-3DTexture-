@@ -1,0 +1,3 @@
+﻿  Sample3DSceneRenderer.cpp
+Sample3DSceneRenderer.obj : error LNK2019: __imp__GetCurrentDirectoryA@8 외부 기호(참조 위치: "protected: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall _3DTexture::Sample3DSceneRenderer::GetWorkingDirectory(void)" (?GetWorkingDirectory@Sample3DSceneRenderer@_3DTexture@@IAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) 함수)에서 확인하지 못했습니다.
+C:\Users\Sungmin Jeon\source\repos\3DTexture\Debug\3DTexture\3DTexture.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
